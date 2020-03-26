@@ -18,3 +18,8 @@ or
 #### make migrations file manually
 * `$ rails generate migration add_index_to_users_email
 `
+
+
+### environment
+* `rails s --environment production`: change runtime environment
+
